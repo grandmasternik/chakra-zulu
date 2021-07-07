@@ -3,7 +3,7 @@
 
 ## About
 
-*Chakra Zulu* was developed to assist anyone, regardless of ecperience level, with maintaining and/or restoring balance & harmony to their suble subtle body energies.  
+*Chakra Zulu* was developed to assist anyone, regardless of ecperience level, with maintaining and/or restoring balance & harmony to theirs ubtle body energies.  
 
 ## Wireframe
 
