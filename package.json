@@ -8,9 +8,7 @@
     "start": "node server.js",
     "build": "cd client && npm install && npm run build"
   },
-
   "proxy": "http://localhost:3000",
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/grandmasternik/chakra-zulu.git"
@@ -28,6 +26,7 @@
     "express": "^4.17.1",
     "method-override": "^3.0.0",
     "mongoose": "^5.13.2",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.10"
   }
 }
