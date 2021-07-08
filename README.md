@@ -7,7 +7,8 @@
 
 ## Wireframe
 
-![Layout](https://imgur.com/fHXoLHA.jpg)
+![Layout (https://imgur.com/fHXoLHA.jpg)]
+![User Stories (https://imgur.com/Gtmn1yP.jpg)]
 
 ## Getting Started
 
