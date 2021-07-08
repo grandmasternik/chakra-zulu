@@ -7,7 +7,7 @@
 
 ## Wireframe
 
-
+![Layout](https://imgur.com/fHXoLHA.jpg)
 
 ## Getting Started
 
